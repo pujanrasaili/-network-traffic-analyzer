@@ -3,9 +3,6 @@
 A Python-based network traffic analyzer built using Scapy.
 Captures and logs live network packets in real time.
 
-## Author
-**Pujan Rasaili** | BSc Software Engineering | University of Bedfordshire
-
 ## Features
 - Captures live TCP, UDP, ICMP packets
 - Displays source/destination IP and ports
@@ -32,5 +29,10 @@ python analyzer.py
 ```
 Press `CTRL+C` to stop capturing.
 
-## 📁 Output
+## Output
 Logs saved to `logs/traffic_log.csv`
+
+
+## Author
+
+**Pujan Rasaili** | BSc Software Engineering | University of Bedfordshire
